@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="RabbitMQTest:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="RabbitMQTest.war">
+      <element id="artifact" artifact-name="RabbitMQTest:war exploded" />
+    </root>
+  </artifact>
+</component>
